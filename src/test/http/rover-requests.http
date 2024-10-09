@@ -1,0 +1,10 @@
+### GET all the mars rovers
+GET http://localhost:8080/rovers
+
+### GET a single mars rover
+GET http://localhost:8080/rovers/2
+
+### GET a single mars rover - 404
+GET http://localhost:8080/rovers/99
+
+###
